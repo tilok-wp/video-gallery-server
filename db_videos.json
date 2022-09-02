@@ -304,6 +304,64 @@
       ],
       "likes": 0,
       "unlikes": 0
+    },
+    
+    {
+      "id": 35,
+      "title": "কমপ্লিট পাইথন প্রজেক্ট ।। নিজে নিজে বানিয়ে ফেলো",
+      "description": "In this React Hooks tutorial, I have explained about React Hooks in React.js. This is a very useful tutorial for React developers who want to learn about React Hooks. If you are a React developer, this tutorial will help you understand React Hooks.",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "Sep 28, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/-RVlkAYAcRA",
+      "thumbnail": "https://i.ytimg.com/vi/T_0I9yxYQp4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1wBIWVBijzehR6r-v01mqRK14Ow",
+      "tags": [
+        "react",
+        "hooks",
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 36,
+      "title": "নিজে নিজে বানিয়ে ফেলো self-driving car || Python Tutorial",
+      "description": "In this React Hooks tutorial, I have explained about React Hooks in React.js. This is a very useful tutorial for React developers who want to learn about React Hooks. If you are a React developer, this tutorial will help you understand React Hooks.",
+      "author": "Jhankar Mahbub",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-QHJPJL38XCYs6Zj8Fq2LytPQlDdZEKAdCatuhTw=s88-c-k-c0x00ffffff-no-rj",
+      "date": "Sep 28, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i.ytimg.com/vi/dI-rXG8ha2A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOtB7YWyNUFJqwqmaYRgJAdjXZ_Q",
+      "tags": [
+        "react",
+        "hooks",
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+
+    {
+      "id": 37,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "likes": 0,
+      "unlikes": 0
     }
   ],
   "tags": [
